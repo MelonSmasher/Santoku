@@ -9,3 +9,8 @@ It's a weekend project that is lacking some basic features like authentication. 
 
 ## Install Directions
 Stay tuned...
+
+## Screenshots
+![main](screens/screen2.png)
+
+![term](screens/screen1.png)
