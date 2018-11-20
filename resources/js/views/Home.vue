@@ -2,7 +2,7 @@
     <div>
         <div v-if="customizationSpecs.length === 0 && loaded_spec" class="center-div" style="margin-top:10px;">
             <h2>Nothing here...</h2>
-            <h4>Create build some networks and templates.</h4>
+            <h4>Build some networks and templates.</h4>
         </div>
         <div v-if="!loaded_spec" class="center-div" style="margin-top:20px;">
             <h3 class="text-info">
